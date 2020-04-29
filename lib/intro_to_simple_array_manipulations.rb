@@ -10,6 +10,28 @@ def using_pop(an_array)
   an_array.pop()
 end
 
-def pop_with_args
-  
+def pop_with_args(an_array)
+  an_array.pop(2)
 end
+
+def using_shift(an_array)
+  an_array.shift()
+end
+
+def shift_with_args(an_array)
+  an_array.shift(2)
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
